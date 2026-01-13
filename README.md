@@ -75,5 +75,7 @@ Cualquier sugerencia o mejora es bienvenida.
 👤 Autor
 
 Andrés Rodríguez
+
 Ingeniero en Software
+
 GitHub: https://github.com/andresar-dev
